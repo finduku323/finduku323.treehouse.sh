@@ -2,7 +2,9 @@
   "version": 1,
   "lastopen": "@workspace",
   "expanded": {
-    "@workspace": {}
+    "@workspace": {
+      "lhijbma5bvtx9tpp2sr": true
+    }
   },
   "nodes": [
     {
@@ -52,13 +54,25 @@
     },
     {
       "ID": "lhijbma5bvtx9tpp2sr",
+      "Name": "人生のもどかしさを乗り越える出会いがある 物語の登場人物たちに自分が抱えるさみしさやもどかしさを背負ってもらう（そのもどかしさが、別の方向へと歪に発散されたりされなかったりするのが、物語の火種）",
+      "Linked": {
+        "Children": [
+          "lhijenqxtx2u5rxvtmf"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhijenqxtx2u5rxvtmf",
       "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhijbma5bvtx9tpp2sr"
     }
   ]
 }
