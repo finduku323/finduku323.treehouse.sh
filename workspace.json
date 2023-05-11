@@ -4,7 +4,7 @@
   "expanded": {
     "@workspace": {
       "lhijbma5bvtx9tpp2sr": true,
-      "lhijenqxtx2u5rxvtmf": true,
+      "lhijenqxtx2u5rxvtmf": false,
       "lhijf5jsbhvocp32rl": true,
       "lhijf73t92dwxdi1q3": true,
       "lhijexfbsy4kpso503o": true,
@@ -207,7 +207,7 @@
     },
     {
       "ID": "lhijf5jsbhvocp32rl",
-      "Name": "学力や親からの圧力、経済状況から強豪校に行けなかった\n",
+      "Name": "学力や親からの圧力、経済状況、そして仲間との軋轢から強豪校に行けなかった\n",
       "Linked": {
         "Children": [
           "lhijf73t92dwxdi1q3"
