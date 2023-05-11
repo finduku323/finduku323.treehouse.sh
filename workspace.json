@@ -7,7 +7,8 @@
       "lhijenqxtx2u5rxvtmf": true,
       "lhijf5jsbhvocp32rl": true,
       "lhijf73t92dwxdi1q3": true,
-      "lhijexfbsy4kpso503o": true
+      "lhijexfbsy4kpso503o": true,
+      "lhijfre1f8at6oj1tat": false
     }
   },
   "nodes": [
@@ -74,7 +75,8 @@
       "Linked": {
         "Children": [
           "lhijf5jsbhvocp32rl",
-          "lhijfre1f8at6oj1tat"
+          "lhijfre1f8at6oj1tat",
+          "lhijfxnd8w7ktsvnr84"
         ],
         "Components": []
       },
@@ -151,7 +153,17 @@
     },
     {
       "ID": "lhijfre1f8at6oj1tat",
-      "Name": "",
+      "Name": "下級生のころからエースナンバーを背負っているが、2年夏には暴投で先輩たちの夏を終わらせている",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijenqxtx2u5rxvtmf"
+    },
+    {
+      "ID": "lhijfxnd8w7ktsvnr84",
+      "Name": "投げてる球はえげつないが粗削りで、体の成長に追いついておらず、怪我のリスクが高い",
       "Linked": {
         "Children": [],
         "Components": []
