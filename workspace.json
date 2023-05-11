@@ -71,7 +71,15 @@
       "lhijsl2wdlem8yw0j69": false,
       "lhijw620yx4ziq34sdp": true,
       "lhijwa1lscskent7tyb": false,
-      "lhijx287oh7505luxj": true
+      "lhijx287oh7505luxj": true,
+      "lhijz3h4026eiu66e1vj": true,
+      "lhijz8u843yl5aycf78": true,
+      "lhijz9uvolvytr2fz09": true,
+      "lhijzanbfxuv204chav": true,
+      "lhijzbko35oon0xbjed": true,
+      "lhijze1kjxrafwwufw": true,
+      "lhijzgqglue43b0zo1i": true,
+      "lhijzhowefu3fpzyld9": true
     }
   },
   "nodes": [
@@ -94,18 +102,7 @@
           "@calendar",
           "lhij9pz2d8ws71tqwsd",
           "lhijbma5bvtx9tpp2sr",
-          "lhijz3h4026eiu66e1vj",
-          "lhijz8u843yl5aycf78",
-          "lhijz9uvolvytr2fz09",
-          "lhijzanbfxuv204chav",
-          "lhijzbko35oon0xbjed",
-          "lhijzc9bzs6nz56wsic",
-          "lhijzcwocbbn5md7bjw",
-          "lhijze1kjxrafwwufw",
-          "lhijzf74bo534mupz9r",
-          "lhijzg1kkqng6qg9iz",
-          "lhijzgqglue43b0zo1i",
-          "lhijzhowefu3fpzyld9"
+          "lhijz3h4026eiu66e1vj"
         ],
         "Components": []
       },
@@ -1587,7 +1584,11 @@
       "ID": "lhijz3h4026eiu66e1vj",
       "Name": "「煙が目にしみる」\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijz8u843yl5aycf78",
+          "lhijze1kjxrafwwufw",
+          "lhijzgqglue43b0zo1i"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -1597,41 +1598,50 @@
       "ID": "lhijz8u843yl5aycf78",
       "Name": "地方局でアナウンサーになる夢を叶えたけどパワハラで１年で退職し、縁のない町のしがない普通の企業に就職したやさぐれ男\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijz9uvolvytr2fz09",
+          "lhijzcwocbbn5md7bjw"
+        ],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhijz3h4026eiu66e1vj"
     },
     {
       "ID": "lhijz9uvolvytr2fz09",
       "Name": "誰にもアナウンサーだったということを勘付かれたくない\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijzanbfxuv204chav"
+        ],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhijz8u843yl5aycf78"
     },
     {
       "ID": "lhijzanbfxuv204chav",
       "Name": "アナウンサー同士が仲悪いこともよく知ってる\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijzbko35oon0xbjed"
+        ],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhijz9uvolvytr2fz09"
     },
     {
       "ID": "lhijzbko35oon0xbjed",
       "Name": "上司が過労で早死したこと、パワハラでうつ病と認定されたことで退職\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijzc9bzs6nz56wsic"
+        ],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhijzanbfxuv204chav"
     },
     {
       "ID": "lhijzc9bzs6nz56wsic",
@@ -1641,7 +1651,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhijzbko35oon0xbjed"
     },
     {
       "ID": "lhijzcwocbbn5md7bjw",
@@ -1651,17 +1661,20 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhijz8u843yl5aycf78"
     },
     {
       "ID": "lhijze1kjxrafwwufw",
       "Name": "職場では品行方正に振舞っているが根も葉もない性関係のトラブルを言いふらされ孤立して喫煙室にいる女性\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijzf74bo534mupz9r",
+          "lhijzg1kkqng6qg9iz"
+        ],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhijz3h4026eiu66e1vj"
     },
     {
       "ID": "lhijzf74bo534mupz9r",
@@ -1671,7 +1684,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhijze1kjxrafwwufw"
     },
     {
       "ID": "lhijzg1kkqng6qg9iz",
@@ -1681,27 +1694,41 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhijze1kjxrafwwufw"
     },
     {
       "ID": "lhijzgqglue43b0zo1i",
       "Name": "アナウンサー時代の同僚で、過労で生理が止まってしまった記者\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijzhowefu3fpzyld9"
+        ],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhijz3h4026eiu66e1vj"
     },
     {
       "ID": "lhijzhowefu3fpzyld9",
-      "Name": "アナウンサー時代の主人公は、彼女のことを憎からず思っていた\nしかし、彼女もまたメディアという組織の被害者だった\n",
+      "Name": "アナウンサー時代の主人公は、彼女のことを憎からず思っていた\n",
+      "Linked": {
+        "Children": [
+          "lhijzlnz8m4gbym0s4l"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijzgqglue43b0zo1i"
+    },
+    {
+      "ID": "lhijzlnz8m4gbym0s4l",
+      "Name": "しかし、彼女もまたメディアという組織の被害者だった\n",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lhijzhowefu3fpzyld9"
     }
   ]
 }
