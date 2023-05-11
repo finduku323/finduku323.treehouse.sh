@@ -3,7 +3,7 @@
   "lastopen": "@workspace",
   "expanded": {
     "@workspace": {
-      "lhijbma5bvtx9tpp2sr": true,
+      "lhijbma5bvtx9tpp2sr": false,
       "lhijenqxtx2u5rxvtmf": true,
       "lhijf5jsbhvocp32rl": true,
       "lhijf73t92dwxdi1q3": true,
@@ -35,7 +35,8 @@
         "Children": [
           "@calendar",
           "lhij9pz2d8ws71tqwsd",
-          "lhijbma5bvtx9tpp2sr"
+          "lhijbma5bvtx9tpp2sr",
+          "lhijenqxtx2u5rxvtmf"
         ],
         "Components": []
       },
@@ -66,9 +67,7 @@
       "ID": "lhijbma5bvtx9tpp2sr",
       "Name": "人生のもどかしさを乗り越える出会いがある 物語の登場人物たちに自分が抱えるさみしさやもどかしさを背負ってもらう（そのもどかしさが、別の方向へと歪に発散されたりされなかったりするのが、物語の火種）",
       "Linked": {
-        "Children": [
-          "lhijenqxtx2u5rxvtmf"
-        ],
+        "Children": [],
         "Components": []
       },
       "Attrs": {},
@@ -87,7 +86,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "@workspace"
     },
     {
       "ID": "lhijexfbsy4kpso503o",
