@@ -80,7 +80,7 @@
       "lhijze1kjxrafwwufw": true,
       "lhijzgqglue43b0zo1i": true,
       "lhijzhowefu3fpzyld9": true,
-      "lhijzf74bo534mupz9r": true,
+      "lhijzf74bo534mupz9r": false,
       "lhik19knhnxp1ahld98": true
     }
   },
@@ -1589,6 +1589,7 @@
         "Children": [
           "lhijz8u843yl5aycf78",
           "lhijze1kjxrafwwufw",
+          "lhik19knhnxp1ahld98",
           "lhijzgqglue43b0zo1i"
         ],
         "Components": []
@@ -1682,9 +1683,7 @@
       "ID": "lhijzf74bo534mupz9r",
       "Name": "仕事に励むこと、人の噂話を聞かないことでストレスを最小限に留めている",
       "Linked": {
-        "Children": [
-          "lhik19knhnxp1ahld98"
-        ],
+        "Children": [],
         "Components": []
       },
       "Attrs": {},
@@ -1744,7 +1743,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijzf74bo534mupz9r"
+      "Parent": "lhijz3h4026eiu66e1vj"
     },
     {
       "ID": "lhik1d326k2fpl1utf2",
