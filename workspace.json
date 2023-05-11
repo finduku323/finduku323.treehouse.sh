@@ -79,7 +79,8 @@
       "lhijzbko35oon0xbjed": true,
       "lhijze1kjxrafwwufw": true,
       "lhijzgqglue43b0zo1i": true,
-      "lhijzhowefu3fpzyld9": true
+      "lhijzhowefu3fpzyld9": true,
+      "lhijzf74bo534mupz9r": true
     }
   },
   "nodes": [
@@ -1678,9 +1679,11 @@
     },
     {
       "ID": "lhijzf74bo534mupz9r",
-      "Name": "仕事に励むこと、人の噂話を聞かないことでストレスを最小限に留めている\n",
+      "Name": "仕事に励むこと、人の噂話を聞かないことでストレスを最小限に留めている",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhik19knhnxp1ahld98"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -1729,6 +1732,16 @@
       },
       "Attrs": {},
       "Parent": "lhijzhowefu3fpzyld9"
+    },
+    {
+      "ID": "lhik19knhnxp1ahld98",
+      "Name": "「人に寄り添う人は、寂しさを抱え込むこともある」という言葉にハッとした\n寄り添う理由は過去に受けた仕打ちからかもしれない\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijzf74bo534mupz9r"
     }
   ]
 }
