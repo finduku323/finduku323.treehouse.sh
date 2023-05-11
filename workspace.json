@@ -30,7 +30,7 @@
       "lhijlooxcluiscm4dhe": false,
       "lhijlq7t4usg95wsuop": true,
       "lhijm5e8qknaz1raut": false,
-      "lhijmahsh6l80a1849q": true,
+      "lhijmahsh6l80a1849q": false,
       "lhijn6ehaxx8tobleh7": true,
       "lhijn8eh332hohzkgfe": true,
       "lhijn96xt3m81l4e2y9": true,
@@ -101,7 +101,8 @@
           "lhijjuuhgwirc3fhxsn",
           "lhijl8018qxuzdunutf",
           "lhijm5e8qknaz1raut",
-          "lhijmahsh6l80a1849q"
+          "lhijmahsh6l80a1849q",
+          "lhijoukgabu8nkw4jgm"
         ],
         "Components": []
       },
@@ -779,7 +780,7 @@
     },
     {
       "ID": "lhijmzjtrs1xqxwi0hh",
-      "Name": "「虚偽期待症候群」こそが危険なんだと意識づけさせる",
+      "Name": "「虚偽期待症候群」、つまり「思い上がり」こそが危険なんだと意識づけさせる",
       "Linked": {
         "Children": [],
         "Components": []
@@ -886,6 +887,16 @@
       },
       "Attrs": {},
       "Parent": "lhijmx15u4mg32hmd7o"
+    },
+    {
+      "ID": "lhijoukgabu8nkw4jgm",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
     }
   ]
 }
