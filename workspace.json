@@ -129,6 +129,11 @@
           "lhijs9lbibf2zyire28",
           "lhijum6oou5l2l8e0g",
           "lhijsjhsm74foeayf9",
+          "lhijv4vco7v25yxp6ba",
+          "lhijv3x4mpn18w0px5p",
+          "lhijv5s8shqbpq577qk",
+          "lhijv6qgtwdrzni4g5",
+          "lhijv8jctxha2i26898",
           "lhijsl2wdlem8yw0j69"
         ],
         "Components": []
@@ -1140,7 +1145,7 @@
     },
     {
       "ID": "lhijsjhsm74foeayf9",
-      "Name": "対戦校の監督（元プロ）がサイン盗みを指示\n勝たなくてはいけない、勝たないと代えられてしまうというプレッシャー（勝利至上主義が指導者に与える悪影響）\nそしてそれに疑問を抱くことを許されず従わされる生徒たち\n途中で生徒たちの表情を見て、主人公が気づく\n試合後、主人公が対戦校の監督に指摘するも、相手監督は「だったら、あなたも私立高校の監督をやってみたらいいんじゃないですか。いいよね、公立校は。負けても責任を取らなくていい。給料も休みもちゃんとしてる。こっちは本気なんです。そんな舐めたこと言うような人間、高校野球の世界にはいらないんですよ」とドスの利いた声で囁く\nOBから勝利を急かれていたかつての自分と重なるような姿",
+      "Name": "対戦校の監督（元プロ）がサイン盗みを指示\n",
       "Linked": {
         "Children": [],
         "Components": []
@@ -1401,6 +1406,56 @@
       },
       "Attrs": {},
       "Parent": "lhijuq6wjo5n3d46hxk"
+    },
+    {
+      "ID": "lhijv3x4mpn18w0px5p",
+      "Name": "そしてそれに疑問を抱くことを許されず従わされる生徒たち\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijv4vco7v25yxp6ba",
+      "Name": "勝たなくてはいけない、勝たないと代えられてしまうというプレッシャー（勝利至上主義が指導者に与える悪影響）\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijv5s8shqbpq577qk",
+      "Name": "途中で生徒たちの表情を見て、主人公が気づく\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijv6qgtwdrzni4g5",
+      "Name": "試合後、主人公が対戦校の監督に指摘するも、相手監督は「だったら、あなたも私立高校の監督をやってみたらいいんじゃないですか。いいよね、公立校は。負けても責任を取らなくていい。給料も休みもちゃんとしてる。こっちは本気なんです。そんな舐めたこと言うような人間、高校野球の世界にはいらないんですよ」とドスの利いた声で囁く\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijv8jctxha2i26898",
+      "Name": "OBから勝利を急かれていたかつての自分と重なるような姿",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
     }
   ]
 }
