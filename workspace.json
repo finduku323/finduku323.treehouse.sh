@@ -69,7 +69,9 @@
       "lhijv6qgtwdrzni4g5": true,
       "lhijs9lbibf2zyire28": false,
       "lhijsl2wdlem8yw0j69": false,
-      "lhijw620yx4ziq34sdp": true
+      "lhijw620yx4ziq34sdp": true,
+      "lhijwa1lscskent7tyb": true,
+      "lhijx287oh7505luxj": true
     }
   },
   "nodes": [
@@ -136,10 +138,7 @@
           "lhijum6oou5l2l8e0g",
           "lhijsjhsm74foeayf9",
           "lhijsl2wdlem8yw0j69",
-          "lhijwa1lscskent7tyb",
-          "lhijwgj4pt91aa9pi",
-          "lhijwhjkt1h2x37pzgg",
-          "lhijwizsnmv44t61we"
+          "lhijwa1lscskent7tyb"
         ],
         "Components": []
       },
@@ -1509,7 +1508,12 @@
       "ID": "lhijwa1lscskent7tyb",
       "Name": "主人公を学生時代から注目していた野球中心のスポーツライター\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijwgj4pt91aa9pi",
+          "lhijwhjkt1h2x37pzgg",
+          "lhijwizsnmv44t61we",
+          "lhijx287oh7505luxj"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -1523,7 +1527,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijwa1lscskent7tyb"
     },
     {
       "ID": "lhijwhjkt1h2x37pzgg",
@@ -1533,17 +1537,39 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijwa1lscskent7tyb"
     },
     {
       "ID": "lhijwizsnmv44t61we",
-      "Name": "それで興味を持って取材しに行こうとするが、主人公はそれを断る（興味本位で来られても困るし、取材を受ける余裕はない。それに一度野球を辞めた自分に何を聞くんだ、と）\n知り合いに準キー局（甲子園のある関西地区）のアナウンサー\n",
+      "Name": "それで興味を持って取材しに行こうとするが、主人公はそれを断る（興味本位で来られても困るし、取材を受ける余裕はない。それに一度野球を辞めた自分に何を聞くんだ、と）",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijwa1lscskent7tyb"
+    },
+    {
+      "ID": "lhijx287oh7505luxj",
+      "Name": "知り合いに準キー局（甲子園のある関西地区）のアナウンサー",
+      "Linked": {
+        "Children": [
+          "lhijx59zkbji6j73iys"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijwa1lscskent7tyb"
+    },
+    {
+      "ID": "lhijx59zkbji6j73iys",
+      "Name": "よく高校野球情報をせびられている\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijx287oh7505luxj"
     }
   ]
 }
