@@ -43,7 +43,7 @@
       "lhijmvkpry24opi47ho": true,
       "lhijmx15u4mg32hmd7o": true,
       "lhijmxs99a877tw1sol": true,
-      "lhijoukgabu8nkw4jgm": true,
+      "lhijoukgabu8nkw4jgm": false,
       "lhijpac04wo68x532sj": true,
       "lhijp8wg94514qhkux9": true,
       "lhijpehtl6fxhtymlng": true,
@@ -110,7 +110,8 @@
           "lhijl8018qxuzdunutf",
           "lhijm5e8qknaz1raut",
           "lhijmahsh6l80a1849q",
-          "lhijoukgabu8nkw4jgm"
+          "lhijoukgabu8nkw4jgm",
+          "lhijrvgo17l7hcmi03v"
         ],
         "Components": []
       },
@@ -898,7 +899,7 @@
     },
     {
       "ID": "lhijoukgabu8nkw4jgm",
-      "Name": "親の期待は圧力となり、主人公の幼馴染にして社会人時代の同僚の彼女を追い詰め、地元へ帰らせ、そこにいた主人公と性的な依存関係に至らしめた\n",
+      "Name": "親の期待は圧力となり、主人公の幼馴染にして社会人時代の同僚の彼女を追い詰め、地元へ帰らせ、そこにいた主人公と性的な依存関係に至らしめた",
       "Linked": {
         "Children": [
           "lhijpac04wo68x532sj",
@@ -1078,6 +1079,16 @@
       },
       "Attrs": {},
       "Parent": "lhijqtk1h2t13ke2bll"
+    },
+    {
+      "ID": "lhijrvgo17l7hcmi03v",
+      "Name": "\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
     }
   ]
 }
