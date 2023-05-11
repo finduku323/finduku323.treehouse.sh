@@ -4,7 +4,7 @@
   "expanded": {
     "@workspace": {
       "lhijbma5bvtx9tpp2sr": true,
-      "lhijenqxtx2u5rxvtmf": true,
+      "lhijenqxtx2u5rxvtmf": false,
       "lhijf5jsbhvocp32rl": true,
       "lhijf73t92dwxdi1q3": true,
       "lhijexfbsy4kpso503o": true,
@@ -67,7 +67,8 @@
       "Name": "人生のもどかしさを乗り越える出会いがある 物語の登場人物たちに自分が抱えるさみしさやもどかしさを背負ってもらう（そのもどかしさが、別の方向へと歪に発散されたりされなかったりするのが、物語の火種）",
       "Linked": {
         "Children": [
-          "lhijenqxtx2u5rxvtmf"
+          "lhijenqxtx2u5rxvtmf",
+          "lhijixoxw5ouzy4dfjr"
         ],
         "Components": []
       },
@@ -76,7 +77,7 @@
     },
     {
       "ID": "lhijenqxtx2u5rxvtmf",
-      "Name": "エースが一人だけ強豪校ではなく進学校に行った事情\n",
+      "Name": "エースが一人だけ強豪校ではなく進学校に行った事情",
       "Linked": {
         "Children": [
           "lhijf5jsbhvocp32rl",
@@ -290,6 +291,16 @@
       },
       "Attrs": {},
       "Parent": "lhijfxnd8w7ktsvnr84"
+    },
+    {
+      "ID": "lhijixoxw5ouzy4dfjr",
+      "Name": "\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
     }
   ]
 }
