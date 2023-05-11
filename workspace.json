@@ -63,7 +63,9 @@
       "lhijtwu0rdfwjh9k1dt": true,
       "lhijum6oou5l2l8e0g": true,
       "lhijuo9kc8fv371n6j": true,
-      "lhijuq6wjo5n3d46hxk": true
+      "lhijuq6wjo5n3d46hxk": true,
+      "lhijsjhsm74foeayf9": true,
+      "lhijv3x4mpn18w0px5p": true
     }
   },
   "nodes": [
@@ -129,10 +131,6 @@
           "lhijs9lbibf2zyire28",
           "lhijum6oou5l2l8e0g",
           "lhijsjhsm74foeayf9",
-          "lhijv4vco7v25yxp6ba",
-          "lhijv3x4mpn18w0px5p",
-          "lhijv5s8shqbpq577qk",
-          "lhijv6qgtwdrzni4g5",
           "lhijv8jctxha2i26898",
           "lhijsl2wdlem8yw0j69"
         ],
@@ -1147,7 +1145,11 @@
       "ID": "lhijsjhsm74foeayf9",
       "Name": "対戦校の監督（元プロ）がサイン盗みを指示\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijv4vco7v25yxp6ba",
+          "lhijv3x4mpn18w0px5p",
+          "lhijv6qgtwdrzni4g5"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -1411,11 +1413,13 @@
       "ID": "lhijv3x4mpn18w0px5p",
       "Name": "そしてそれに疑問を抱くことを許されず従わされる生徒たち\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijv5s8shqbpq577qk"
+        ],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijsjhsm74foeayf9"
     },
     {
       "ID": "lhijv4vco7v25yxp6ba",
@@ -1425,7 +1429,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijsjhsm74foeayf9"
     },
     {
       "ID": "lhijv5s8shqbpq577qk",
@@ -1435,7 +1439,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijv3x4mpn18w0px5p"
     },
     {
       "ID": "lhijv6qgtwdrzni4g5",
@@ -1445,7 +1449,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijsjhsm74foeayf9"
     },
     {
       "ID": "lhijv8jctxha2i26898",
