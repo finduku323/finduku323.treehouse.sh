@@ -112,6 +112,7 @@
           "lhijmahsh6l80a1849q",
           "lhijoukgabu8nkw4jgm",
           "lhijrvgo17l7hcmi03v",
+          "lhijt2gwzxy28neqme",
           "lhijsssg95u1hv65kts",
           "lhijsts02ra8ib2oo5z",
           "lhijsukglwb0hax28x",
@@ -1093,7 +1094,7 @@
     },
     {
       "ID": "lhijrvgo17l7hcmi03v",
-      "Name": "体罰で自分の最後と決めた夏の大会を辞退せざるを得なくなった恩師\n実はその体罰というものは、部内の窃盗や暴力、上下関係という問題を咎める際に手が出てしまったコーチをかばい、自分が体罰をしたことにしたものだった\n",
+      "Name": "体罰で自分の最後と決めた夏の大会を辞退せざるを得なくなった恩師\n",
       "Linked": {
         "Children": [],
         "Components": []
@@ -1204,6 +1205,16 @@
     {
       "ID": "lhijsz68q4nbx0osuu",
       "Name": "寮で生徒と一緒に（まるで第二の親のような顔で）過ごしてきたのに、生徒の裏の顔に気がつくことができなかった",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijt2gwzxy28neqme",
+      "Name": "実はその体罰というものは、部内の窃盗や暴力、上下関係という問題を咎める際に手が出てしまったコーチをかばい、自分が体罰をしたことにしたものだった\n",
       "Linked": {
         "Children": [],
         "Components": []
