@@ -93,7 +93,19 @@
         "Children": [
           "@calendar",
           "lhij9pz2d8ws71tqwsd",
-          "lhijbma5bvtx9tpp2sr"
+          "lhijbma5bvtx9tpp2sr",
+          "lhijz3h4026eiu66e1vj",
+          "lhijz8u843yl5aycf78",
+          "lhijz9uvolvytr2fz09",
+          "lhijzanbfxuv204chav",
+          "lhijzbko35oon0xbjed",
+          "lhijzc9bzs6nz56wsic",
+          "lhijzcwocbbn5md7bjw",
+          "lhijze1kjxrafwwufw",
+          "lhijzf74bo534mupz9r",
+          "lhijzg1kkqng6qg9iz",
+          "lhijzgqglue43b0zo1i",
+          "lhijzhowefu3fpzyld9"
         ],
         "Components": []
       },
@@ -1506,7 +1518,7 @@
     },
     {
       "ID": "lhijwa1lscskent7tyb",
-      "Name": "主人公を学生時代から注目していた野球中心のスポーツライター\n",
+      "Name": "主人公を学生時代から注目していた野球中心のスポーツライター",
       "Linked": {
         "Children": [
           "lhijwgj4pt91aa9pi",
@@ -1570,6 +1582,126 @@
       },
       "Attrs": {},
       "Parent": "lhijx287oh7505luxj"
+    },
+    {
+      "ID": "lhijz3h4026eiu66e1vj",
+      "Name": "「煙が目にしみる」\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhijz8u843yl5aycf78",
+      "Name": "地方局でアナウンサーになる夢を叶えたけどパワハラで１年で退職し、縁のない町のしがない普通の企業に就職したやさぐれ男\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhijz9uvolvytr2fz09",
+      "Name": "誰にもアナウンサーだったということを勘付かれたくない\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhijzanbfxuv204chav",
+      "Name": "アナウンサー同士が仲悪いこともよく知ってる\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhijzbko35oon0xbjed",
+      "Name": "上司が過労で早死したこと、パワハラでうつ病と認定されたことで退職\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhijzc9bzs6nz56wsic",
+      "Name": "その後療養期間を経て現在の会社へ（今のところもあんまりいい職場とは言えない）\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhijzcwocbbn5md7bjw",
+      "Name": "ラッキーストライク、セブンスターが好き\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhijze1kjxrafwwufw",
+      "Name": "職場では品行方正に振舞っているが根も葉もない性関係のトラブルを言いふらされ孤立して喫煙室にいる女性\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhijzf74bo534mupz9r",
+      "Name": "仕事に励むこと、人の噂話を聞かないことでストレスを最小限に留めている\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhijzg1kkqng6qg9iz",
+      "Name": "タバコは吸えない\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhijzgqglue43b0zo1i",
+      "Name": "アナウンサー時代の同僚で、過労で生理が止まってしまった記者\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lhijzhowefu3fpzyld9",
+      "Name": "アナウンサー時代の主人公は、彼女のことを憎からず思っていた\nしかし、彼女もまたメディアという組織の被害者だった\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
     }
   ]
 }
