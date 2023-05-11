@@ -55,7 +55,15 @@
       "lhijt2gwzxy28neqme": true,
       "lhijsts02ra8ib2oo5z": true,
       "lhijsw889sf93q832ls": true,
-      "lhijsx280cyz7c36eru": true
+      "lhijsx280cyz7c36eru": true,
+      "lhijs2rrj7wnw6srwg": true,
+      "lhijtqs8k5zqxf6547h": true,
+      "lhijtmypwctgrr9uqd": true,
+      "lhijttrcv1nd1xdcf5": true,
+      "lhijtwu0rdfwjh9k1dt": true,
+      "lhijum6oou5l2l8e0g": true,
+      "lhijuo9kc8fv371n6j": true,
+      "lhijuq6wjo5n3d46hxk": true
     }
   },
   "nodes": [
@@ -119,6 +127,7 @@
           "lhijrvgo17l7hcmi03v",
           "lhijs2rrj7wnw6srwg",
           "lhijs9lbibf2zyire28",
+          "lhijum6oou5l2l8e0g",
           "lhijsjhsm74foeayf9",
           "lhijsl2wdlem8yw0j69"
         ],
@@ -1105,9 +1114,15 @@
     },
     {
       "ID": "lhijs2rrj7wnw6srwg",
-      "Name": "投げたくても投げられない二番手投手\n制球力と切れ味鋭いスライダーが武器\n左肘のけが、長い体作りの期間は試合に出られないというフラストレーション\nしかも監督は「実力はあるが手のかかるエース」に目をかけていて、自分は見向きもしてもらえない（と思っている）\nエースがイップスに陥ったときも密かに「しめしめ」「自業自得」と思っていた\n仲良しこよしの関係性なんてあんまりなくて、ほとんど、もう９割近くの環境では、誰かをヘイト向け放題のスケープゴート・防波堤にして自分のことを守っている\nだが、捕手から「お前がいなきゃ、あいつは一人でこのチームを背負うことになるんだぞ。チームの看板選手みたいに取り上げられて、持ち上げられて、方やお前は野球部を辞めてスタンドで制服で応援してるだけ。お前、そんな状況嫌だろ？」と諭される\n「お前がマウンドに立ってる時は、誰がなんと言おうがお前がエースなんだ。お前に任せてんだよ」という言葉で覚醒\nエースが登板回避したとき、大事な試合を任される\n修行の期間に習得していた新球種・チェンジアップで右打者の外を振らせまくる",
+      "Name": "投げたくても投げられない二番手投手\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijtotcm3t27ll6el",
+          "lhijtpswx6uqhfxhd3",
+          "lhijtqs8k5zqxf6547h",
+          "lhijttrcv1nd1xdcf5",
+          "lhijtwu0rdfwjh9k1dt"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -1115,7 +1130,7 @@
     },
     {
       "ID": "lhijs9lbibf2zyire28",
-      "Name": "筋肉が正義だと鍛え続けてる頭のいい筋肉バカは伸び悩んでいた\nプロ三年目、元教え子はプロの試合のプレッシャーに押しつぶされて泣きながら電話してきた\n大卒投手という即戦力を求められる立場、練習から自分がいつか戦力外になるのかもしれないというサバイバルを意識させられる中、二軍の試合でひとつのアウトも取れずに降板\nその後も結果が出せず、後に右肘を怪我しリハビリ組へ\n待っていた過酷な体作り、先輩が優しいことが逆に怖かった\n「焦るな」という言葉をかけられればかけられるほど焦ってしまう",
+      "Name": "筋肉が正義だと鍛え続けてる頭のいい筋肉バカは伸び悩んでいた\n",
       "Linked": {
         "Children": [],
         "Components": []
@@ -1180,8 +1195,7 @@
       "Name": "監督としての全盛期はスパルタで、凡ミスをすると激しい罵声が飛んでくる緊張感のある環境だった\n",
       "Linked": {
         "Children": [
-          "lhijsx280cyz7c36eru",
-          "lhijsz68q4nbx0osuu"
+          "lhijsx280cyz7c36eru"
         ],
         "Components": []
       },
@@ -1193,7 +1207,8 @@
       "Name": "しかしそれがきっかけで連帯責任によるキツい練習を嫌った上級生が下級生をしごく上下関係が生まれ、根付いた\n",
       "Linked": {
         "Children": [
-          "lhijsxwgjrnsiijj7j9"
+          "lhijsxwgjrnsiijj7j9",
+          "lhijsz68q4nbx0osuu"
         ],
         "Components": []
       },
@@ -1218,7 +1233,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijsw889sf93q832ls"
+      "Parent": "lhijsx280cyz7c36eru"
     },
     {
       "ID": "lhijt2gwzxy28neqme",
@@ -1231,6 +1246,161 @@
       },
       "Attrs": {},
       "Parent": "lhijrvgo17l7hcmi03v"
+    },
+    {
+      "ID": "lhijtmypwctgrr9uqd",
+      "Name": "エースがイップスに陥ったときも密かに「しめしめ」「自業自得」と思っていた\n",
+      "Linked": {
+        "Children": [
+          "lhijtsf4cp0r6yoty3h"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijtqs8k5zqxf6547h"
+    },
+    {
+      "ID": "lhijtotcm3t27ll6el",
+      "Name": "制球力と切れ味鋭いスライダーが武器\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijs2rrj7wnw6srwg"
+    },
+    {
+      "ID": "lhijtpswx6uqhfxhd3",
+      "Name": "左肘のけが、長い体作りの期間は試合に出られないというフラストレーション\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijs2rrj7wnw6srwg"
+    },
+    {
+      "ID": "lhijtqs8k5zqxf6547h",
+      "Name": "しかも監督は「実力はあるが手のかかるエース」に目をかけていて、自分は見向きもしてもらえない（と思っている）\n",
+      "Linked": {
+        "Children": [
+          "lhijtmypwctgrr9uqd"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijs2rrj7wnw6srwg"
+    },
+    {
+      "ID": "lhijtsf4cp0r6yoty3h",
+      "Name": "仲良しこよしの関係性なんてあんまりなくて、ほとんど、もう９割近くの環境では、誰かをヘイト向け放題のスケープゴート・防波堤にして自分のことを守っている、と思い、エースを敵視している\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijtmypwctgrr9uqd"
+    },
+    {
+      "ID": "lhijttrcv1nd1xdcf5",
+      "Name": "だが、捕手から「お前がいなきゃ、あいつは一人でこのチームを背負うことになるんだぞ。チームの看板選手みたいに取り上げられて、持ち上げられて、方やお前は野球部を辞めてスタンドで制服で応援してるだけ。お前、そんな状況嫌だろ？」と諭される\n",
+      "Linked": {
+        "Children": [
+          "lhijtv7kma38gadfn7k"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijs2rrj7wnw6srwg"
+    },
+    {
+      "ID": "lhijtv7kma38gadfn7k",
+      "Name": "「お前がマウンドに立ってる時は、誰がなんと言おうがお前がエースなんだ。お前に任せてんだよ」という言葉で覚醒\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijttrcv1nd1xdcf5"
+    },
+    {
+      "ID": "lhijtwu0rdfwjh9k1dt",
+      "Name": "エースが登板回避したとき、大事な試合を任される\n",
+      "Linked": {
+        "Children": [
+          "lhijtxzc056icaqoggea"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijs2rrj7wnw6srwg"
+    },
+    {
+      "ID": "lhijtxzc056icaqoggea",
+      "Name": "修行の期間に習得していた新球種・チェンジアップで右打者の外を振らせまくる",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijtwu0rdfwjh9k1dt"
+    },
+    {
+      "ID": "lhijum6oou5l2l8e0g",
+      "Name": "プロ三年目、元教え子はプロの試合のプレッシャーに押しつぶされて泣きながら電話してきた\n",
+      "Linked": {
+        "Children": [
+          "lhijuo9kc8fv371n6j"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijuo9kc8fv371n6j",
+      "Name": "大卒投手という即戦力を求められる立場、練習から自分がいつか戦力外になるのかもしれないというサバイバルを意識させられる中、二軍の試合でひとつのアウトも取れずに降板\n",
+      "Linked": {
+        "Children": [
+          "lhijuq6wjo5n3d46hxk"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijum6oou5l2l8e0g"
+    },
+    {
+      "ID": "lhijuq6wjo5n3d46hxk",
+      "Name": "その後も結果が出せず、後に右肘を怪我しリハビリ組へ\n",
+      "Linked": {
+        "Children": [
+          "lhijuqug5e5e5czbbsm",
+          "lhijurv4grnys7odhb"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijuo9kc8fv371n6j"
+    },
+    {
+      "ID": "lhijuqug5e5e5czbbsm",
+      "Name": "待っていた過酷な体作り、先輩が優しいことが逆に怖かった\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijuq6wjo5n3d46hxk"
+    },
+    {
+      "ID": "lhijurv4grnys7odhb",
+      "Name": "「焦るな」という言葉をかけられればかけられるほど焦ってしまう",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijuq6wjo5n3d46hxk"
     }
   ]
 }
