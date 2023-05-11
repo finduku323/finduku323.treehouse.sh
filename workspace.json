@@ -24,7 +24,12 @@
       "lhijk801jx1wshoyzn": true,
       "lhijkmcxz9kcxv7vipc": true,
       "lhijkqk9c7rt7fe63nn": true,
-      "lhijl1156rp83of5y4k": true
+      "lhijl1156rp83of5y4k": true,
+      "lhijl8018qxuzdunutf": false,
+      "lhijlmc10dk2ausxywzb": true,
+      "lhijlooxcluiscm4dhe": false,
+      "lhijlq7t4usg95wsuop": true,
+      "lhijm5e8qknaz1raut": false
     }
   },
   "nodes": [
@@ -81,7 +86,9 @@
           "lhijenqxtx2u5rxvtmf",
           "lhijixoxw5ouzy4dfjr",
           "lhijjuuhgwirc3fhxsn",
-          "lhijl8018qxuzdunutf"
+          "lhijl8018qxuzdunutf",
+          "lhijm5e8qknaz1raut",
+          "lhijmahsh6l80a1849q"
         ],
         "Components": []
       },
@@ -514,7 +521,97 @@
     },
     {
       "ID": "lhijl8018qxuzdunutf",
-      "Name": "ムードメーカーにして守備職人の内野手が誇りに思うのは、グラブさばきよりも一歩目のスタートダッシュ\n県内の強豪校のセレクションには「上背がない」「打撃が弱い」という評価でどこにもかからなかった\n進学校に入ったけど、周りがすごすぎて自信を喪失し、自分のアイデンティティを見失って自暴自棄になりかけた\nしかし、誰にも見つけてもらえなかった長所「一歩目の良さ」を見つけてくれた監督に感謝している\nノーサイン野球という方針で足の速さが盗塁を生み、チームの象徴的な選手に\nしかしその俊足はガラスの俊足だった、肉離れや怪我に悩まされる\n甲子園に出られないとわかっていて、それでも野球がしたいと入部した女子部員\n最後の夏は高校連合丹波の一員としてプレー\n",
+      "Name": "ムードメーカーにして守備職人の内野手が誇りに思うのは、グラブさばきよりも一歩目のスタートダッシュ\n",
+      "Linked": {
+        "Children": [
+          "lhijlmc10dk2ausxywzb",
+          "lhijlooxcluiscm4dhe",
+          "lhijlq7t4usg95wsuop"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijlmc10dk2ausxywzb",
+      "Name": "県内の強豪校のセレクションには「上背がない」「打撃が弱い」という評価でどこにもかからなかった\n",
+      "Linked": {
+        "Children": [
+          "lhijln89t5t96klrc9"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijl8018qxuzdunutf"
+    },
+    {
+      "ID": "lhijln89t5t96klrc9",
+      "Name": "進学校に入ったけど、周りがすごすぎて自信を喪失し、自分のアイデンティティを見失って自暴自棄になりかけた\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijlmc10dk2ausxywzb"
+    },
+    {
+      "ID": "lhijlooxcluiscm4dhe",
+      "Name": "しかし、誰にも見つけてもらえなかった長所「一歩目の良さ」を見つけてくれた監督に感謝している\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijl8018qxuzdunutf"
+    },
+    {
+      "ID": "lhijlq7t4usg95wsuop",
+      "Name": "ノーサイン野球という方針で足の速さが盗塁を生み、チームの象徴的な選手に\n",
+      "Linked": {
+        "Children": [
+          "lhijlrht3sa0kdkuakx"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijl8018qxuzdunutf"
+    },
+    {
+      "ID": "lhijlrht3sa0kdkuakx",
+      "Name": "しかしその俊足はガラスの俊足だった、肉離れや怪我に悩まされる\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijlq7t4usg95wsuop"
+    },
+    {
+      "ID": "lhijlt29djj3shvo8dd",
+      "Name": "最後の夏は高校連合丹波の一員としてプレー\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijm5e8qknaz1raut"
+    },
+    {
+      "ID": "lhijm5e8qknaz1raut",
+      "Name": "甲子園に出られないとわかっていて、それでも野球がしたいと入部した女子部員",
+      "Linked": {
+        "Children": [
+          "lhijlt29djj3shvo8dd"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijmahsh6l80a1849q",
+      "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
