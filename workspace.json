@@ -80,7 +80,8 @@
       "lhijze1kjxrafwwufw": true,
       "lhijzgqglue43b0zo1i": true,
       "lhijzhowefu3fpzyld9": true,
-      "lhijzf74bo534mupz9r": true
+      "lhijzf74bo534mupz9r": true,
+      "lhik19knhnxp1ahld98": true
     }
   },
   "nodes": [
@@ -1735,13 +1736,25 @@
     },
     {
       "ID": "lhik19knhnxp1ahld98",
-      "Name": "「人に寄り添う人は、寂しさを抱え込むこともある」という言葉にハッとした\n寄り添う理由は過去に受けた仕打ちからかもしれない\n",
+      "Name": "「人に寄り添う人は、寂しさを抱え込むこともある」という言葉にハッとした",
+      "Linked": {
+        "Children": [
+          "lhik1d326k2fpl1utf2"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijzf74bo534mupz9r"
+    },
+    {
+      "ID": "lhik1d326k2fpl1utf2",
+      "Name": "寄り添う理由は過去に受けた仕打ちからかもしれない\n",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijzf74bo534mupz9r"
+      "Parent": "lhik19knhnxp1ahld98"
     }
   ]
 }
