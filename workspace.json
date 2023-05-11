@@ -18,11 +18,13 @@
       "lhijjl35wf9bs3xpmy": true,
       "lhijjfw1fcihz44tj4q": true,
       "lhijjgt5u0zyj7g27pg": true,
-      "lhijjuuhgwirc3fhxsn": true,
+      "lhijjuuhgwirc3fhxsn": false,
       "lhijk6c1d59qropy8l": true,
       "lhijk4x5rcux70h3lyb": true,
       "lhijk801jx1wshoyzn": true,
-      "lhijkmcxz9kcxv7vipc": true
+      "lhijkmcxz9kcxv7vipc": true,
+      "lhijkqk9c7rt7fe63nn": true,
+      "lhijl1156rp83of5y4k": true
     }
   },
   "nodes": [
@@ -78,7 +80,8 @@
         "Children": [
           "lhijenqxtx2u5rxvtmf",
           "lhijixoxw5ouzy4dfjr",
-          "lhijjuuhgwirc3fhxsn"
+          "lhijjuuhgwirc3fhxsn",
+          "lhijl8018qxuzdunutf"
         ],
         "Components": []
       },
@@ -390,7 +393,7 @@
           "lhijk6c1d59qropy8l",
           "lhijk801jx1wshoyzn",
           "lhijkmcxz9kcxv7vipc",
-          "lhijkpcwf19yvnszww"
+          "lhijl1156rp83of5y4k"
         ],
         "Components": []
       },
@@ -467,23 +470,57 @@
     },
     {
       "ID": "lhijkpcwf19yvnszww",
-      "Name": "本人はなかなか成績が上がらずストレスになっている\n本人は大学でも野球を続けたいが、どっちの選択肢に行っても本腰を入れて野球をできるような環境ではないと思う\nそして自分が将来的にプロになれる可能性が低いのに大学でも金のかかる野球を続けようとすることが自分でもワガママなことなんじゃないかと思っている\n",
+      "Name": "本人はなかなか成績が上がらずストレスになっている\n",
       "Linked": {
         "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijkqk9c7rt7fe63nn"
+    },
+    {
+      "ID": "lhijkqk9c7rt7fe63nn",
+      "Name": "進路実績のことだけを考え、部活を疎ましく思っている（帰るのが遅くなるし）",
+      "Linked": {
+        "Children": [
+          "lhijkpcwf19yvnszww"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijkmcxz9kcxv7vipc"
+    },
+    {
+      "ID": "lhijl1156rp83of5y4k",
+      "Name": "本人は大学でも野球を続けたいが、どっちの選択肢に行っても本腰を入れて野球をできるような環境ではないと思う\n",
+      "Linked": {
+        "Children": [
+          "lhijl2w9msijohjmrr"
+        ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lhijjuuhgwirc3fhxsn"
     },
     {
-      "ID": "lhijkqk9c7rt7fe63nn",
-      "Name": "進路実績のことだけを考え、部活を疎ましく思っている（帰るのが遅くなるし）",
+      "ID": "lhijl2w9msijohjmrr",
+      "Name": "そして自分が将来的にプロになれる可能性が低いのに大学でも金のかかる野球を続けようとすることが自分でもワガママなことなんじゃないかと思っている",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijkmcxz9kcxv7vipc"
+      "Parent": "lhijl1156rp83of5y4k"
+    },
+    {
+      "ID": "lhijl8018qxuzdunutf",
+      "Name": "\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
     }
   ]
 }
