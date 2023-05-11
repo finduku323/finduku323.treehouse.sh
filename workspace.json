@@ -48,7 +48,8 @@
       "lhijp8wg94514qhkux9": true,
       "lhijpehtl6fxhtymlng": true,
       "lhijphlc1wt9lxvbsqf": true,
-      "lhijpji8e9c37x1q4di": true
+      "lhijpji8e9c37x1q4di": true,
+      "lhijqoqfb50qkt0u3sb": true
     }
   },
   "nodes": [
@@ -109,8 +110,6 @@
           "lhijm5e8qknaz1raut",
           "lhijmahsh6l80a1849q",
           "lhijoukgabu8nkw4jgm",
-          "lhijqsk8gtjr0tfeyre",
-          "lhijqtk1h2t13ke2bll",
           "lhijqut4jf4kfknw45o"
         ],
         "Components": []
@@ -1039,7 +1038,10 @@
       "ID": "lhijqoqfb50qkt0u3sb",
       "Name": "甲子園の試合前日に電話すると、「あんた、私の母校の監督だったんだね」と言われる。知っていたのか、と尋ねると、いや、なんの気無しにネットニュース見てたら名前が出てきてびっくりした、いいの？　こんな公に出る人間が私みたいな爛れた関係の女と付き合ってて、と言われる\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijqsk8gtjr0tfeyre",
+          "lhijqtk1h2t13ke2bll"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -1053,7 +1055,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijqoqfb50qkt0u3sb"
     },
     {
       "ID": "lhijqtk1h2t13ke2bll",
@@ -1063,7 +1065,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijqoqfb50qkt0u3sb"
     },
     {
       "ID": "lhijqut4jf4kfknw45o",
