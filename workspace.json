@@ -65,7 +65,8 @@
       "lhijuo9kc8fv371n6j": true,
       "lhijuq6wjo5n3d46hxk": true,
       "lhijsjhsm74foeayf9": true,
-      "lhijv3x4mpn18w0px5p": true
+      "lhijv3x4mpn18w0px5p": true,
+      "lhijv6qgtwdrzni4g5": true
     }
   },
   "nodes": [
@@ -131,7 +132,6 @@
           "lhijs9lbibf2zyire28",
           "lhijum6oou5l2l8e0g",
           "lhijsjhsm74foeayf9",
-          "lhijv8jctxha2i26898",
           "lhijsl2wdlem8yw0j69"
         ],
         "Components": []
@@ -1443,9 +1443,11 @@
     },
     {
       "ID": "lhijv6qgtwdrzni4g5",
-      "Name": "試合後、主人公が対戦校の監督に指摘するも、相手監督は「だったら、あなたも私立高校の監督をやってみたらいいんじゃないですか。いいよね、公立校は。何もしてなくても応援されるし、負けても責任を取らなくていい。給料も休みもちゃんとしてる。こっちは本気なんです。そんな舐めたこと言うような人間、高校野球の世界にはいらないんですよ」とドスの利いた声で囁く\n",
+      "Name": "試合後、主人公が対戦校の監督に指摘するも、相手監督は「だったら、あなたも私立高校の監督をやってみたらいいんじゃないですか。いいよね、公立校は。何もしてなくても応援されるし、負けても責任を取らなくていい。給料も休みもちゃんとしてる。こっちは金をかけてる分、本気なんです。そんな舐めたこと言うような人間、高校野球の世界にはいらないんですよ」とドスの利いた声で囁く\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijv8jctxha2i26898"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -1459,7 +1461,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijv6qgtwdrzni4g5"
     }
   ]
 }
