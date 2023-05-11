@@ -29,7 +29,20 @@
       "lhijlmc10dk2ausxywzb": true,
       "lhijlooxcluiscm4dhe": false,
       "lhijlq7t4usg95wsuop": true,
-      "lhijm5e8qknaz1raut": false
+      "lhijm5e8qknaz1raut": false,
+      "lhijmahsh6l80a1849q": true,
+      "lhijn6ehaxx8tobleh7": true,
+      "lhijn8eh332hohzkgfe": true,
+      "lhijn96xt3m81l4e2y9": true,
+      "lhijnd81kocl6yc18vp": true,
+      "lhijmk545ziziqe6moe": true,
+      "lhijmpb5utyd4d5rmaq": true,
+      "lhijmqsh3lgjc9patwt": true,
+      "lhijmttyxx409zg0r": true,
+      "lhijmuowdgvwo8lgwj": true,
+      "lhijmvkpry24opi47ho": true,
+      "lhijmx15u4mg32hmd7o": true,
+      "lhijmxs99a877tw1sol": true
     }
   },
   "nodes": [
@@ -611,13 +624,268 @@
     },
     {
       "ID": "lhijmahsh6l80a1849q",
-      "Name": "",
+      "Name": "大学野球でいじめに遭い野球なんかどうでもいいと思った監督\n",
+      "Linked": {
+        "Children": [
+          "lhijn6ehaxx8tobleh7",
+          "lhijn8eh332hohzkgfe",
+          "lhijnd81kocl6yc18vp",
+          "lhijmpb5utyd4d5rmaq",
+          "lhijmttyxx409zg0r",
+          "lhijmvkpry24opi47ho"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijmk545ziziqe6moe",
+      "Name": "そこで働いていた地元の幼馴染と再開し、腐れ縁からセフレ的な関係になる\n",
+      "Linked": {
+        "Children": [
+          "lhijmmr478eej8qthp9"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijnd81kocl6yc18vp"
+    },
+    {
+      "ID": "lhijmmr478eej8qthp9",
+      "Name": "恋愛感情はなくて、あるのはただ性的にただれた依存関係だけ、求めればラブホに行って金銭でしてもらえるだけ、そこに虚しさはありつつも複雑な気持ちを持っていた\n",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijmk545ziziqe6moe"
+    },
+    {
+      "ID": "lhijmo94okghu7ulgx",
+      "Name": "社会人経験が、後々、「野球だけやってたら、挫折したときに何もなくなってしまう」という考えを作るようになる（生徒の勉強の面倒を見たり、人の話を聞く姿勢について育てたりする土台）\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijnd81kocl6yc18vp"
+    },
+    {
+      "ID": "lhijmpb5utyd4d5rmaq",
+      "Name": "大学の中でいじめられていた自分（のちの監督）をかばってくれたキャプテンが社会人野球の試合中に心不全で突然死\n",
+      "Linked": {
+        "Children": [
+          "lhijmq1tna6mtgl5clo",
+          "lhijmqsh3lgjc9patwt"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmahsh6l80a1849q"
+    },
+    {
+      "ID": "lhijmq1tna6mtgl5clo",
+      "Name": "突然死した大学の同級生の葬式で、同級生の家族から「お前、野球に関わる気はないのか」と問い詰められる（23歳）\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmpb5utyd4d5rmaq"
+    },
+    {
+      "ID": "lhijmqsh3lgjc9patwt",
+      "Name": "最初はその気がなかったが、自分をかばってくれたキャプテンがたびたび自分のことを口にしていたと聞いて、弔いのために（嫌々ながら）ある生徒のコーチングを始める\n",
+      "Linked": {
+        "Children": [
+          "lhijmsu14vs54e9ypcp"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmpb5utyd4d5rmaq"
+    },
+    {
+      "ID": "lhijmsu14vs54e9ypcp",
+      "Name": "その選手が名門校で結果を残したことで、今度は「お前、高校のコーチやらんか？」と言われる（25歳）\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmqsh3lgjc9patwt"
+    },
+    {
+      "ID": "lhijmttyxx409zg0r",
+      "Name": "母校・広徳館のコーチを2年間勤めながら教員免許を通信制大学で取得し、複数の県立高校を渡り歩いたあと、29歳のときに尾道市立高校の監督に就任\n",
+      "Linked": {
+        "Children": [
+          "lhijmuowdgvwo8lgwj"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmahsh6l80a1849q"
+    },
+    {
+      "ID": "lhijmuowdgvwo8lgwj",
+      "Name": "実績を出せず苦しむ時期が2年間続き、同僚やOBからの批判もあった",
+      "Linked": {
+        "Children": [
+          "lhijo155mp5e7i3ok0i"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmttyxx409zg0r"
+    },
+    {
+      "ID": "lhijmvkpry24opi47ho",
+      "Name": "「勝たなきゃ面白くないのは、俺もお前も同じだからな」\n",
+      "Linked": {
+        "Children": [
+          "lhijmx15u4mg32hmd7o",
+          "lhijmxs99a877tw1sol"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmahsh6l80a1849q"
+    },
+    {
+      "ID": "lhijmx15u4mg32hmd7o",
+      "Name": "「ヒット打ったら、ベンチに向かって、ユニフォームの「ICHIKO」の文字を見せびらかすのはどうだ？」",
+      "Linked": {
+        "Children": [
+          "lhijo6ewdoiauvadw7"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmvkpry24opi47ho"
+    },
+    {
+      "ID": "lhijmxs99a877tw1sol",
+      "Name": "「飛び抜けた明るい結果を空想するよりも、ままならない現実を認めて、その結果に少しでも近づけようとするべきだ」という考えを持っている\n",
+      "Linked": {
+        "Children": [
+          "lhijmzjtrs1xqxwi0hh"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmvkpry24opi47ho"
+    },
+    {
+      "ID": "lhijmzjtrs1xqxwi0hh",
+      "Name": "「虚偽期待症候群」こそが危険なんだと意識づけさせる",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmxs99a877tw1sol"
+    },
+    {
+      "ID": "lhijn6ehaxx8tobleh7",
+      "Name": "小学二年生のときに広島から大阪へ転校（家庭の事情）\n",
+      "Linked": {
+        "Children": [
+          "lhijn7gpgnta8nv0rjl"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmahsh6l80a1849q"
+    },
+    {
+      "ID": "lhijn7gpgnta8nv0rjl",
+      "Name": "実はこの時にのちにセフレとなる幼馴染と面識あり（というか友達だった）\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijn6ehaxx8tobleh7"
+    },
+    {
+      "ID": "lhijn8eh332hohzkgfe",
+      "Name": "高校時代はセンバツ優勝など華々しい実績で、レギュラーの二塁手。プロからも注目され、特待生扱いで大学へ\n",
+      "Linked": {
+        "Children": [
+          "lhijn96xt3m81l4e2y9"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmahsh6l80a1849q"
+    },
+    {
+      "ID": "lhijn96xt3m81l4e2y9",
+      "Name": "しかし大学では2年の春にイップスに陥りリハビリ組へ、その瞬間に一気にいじめが苛烈に\n",
+      "Linked": {
+        "Children": [
+          "lhijnapl5agwl0zhrn8",
+          "lhijnbjk1mcm5ykwzduj"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijn8eh332hohzkgfe"
+    },
+    {
+      "ID": "lhijnapl5agwl0zhrn8",
+      "Name": "母校とのパイプのため簡単には辞められず、限界だと思って連絡した恩師に罵倒される→母校との確執\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijn96xt3m81l4e2y9"
+    },
+    {
+      "ID": "lhijnbjk1mcm5ykwzduj",
+      "Name": "のちに恩師には「あのときは悪いことをした」と謝罪される\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijn96xt3m81l4e2y9"
+    },
+    {
+      "ID": "lhijnd81kocl6yc18vp",
+      "Name": "大学中退後、地元の一般企業に勤めて野球のことを忘れようとした（21歳）",
+      "Linked": {
+        "Children": [
+          "lhijmk545ziziqe6moe",
+          "lhijmo94okghu7ulgx"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmahsh6l80a1849q"
+    },
+    {
+      "ID": "lhijo155mp5e7i3ok0i",
+      "Name": "指導の中で、大事なことは「采配に責任を持ち、選手を信頼し続けること」だと気がつく\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmuowdgvwo8lgwj"
+    },
+    {
+      "ID": "lhijo6ewdoiauvadw7",
+      "Name": "母校へのコンプレックスを持っている生徒たちに対して\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijmx15u4mg32hmd7o"
     }
   ]
 }
