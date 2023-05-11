@@ -17,7 +17,11 @@
       "lhijixoxw5ouzy4dfjr": false,
       "lhijjl35wf9bs3xpmy": true,
       "lhijjfw1fcihz44tj4q": true,
-      "lhijjgt5u0zyj7g27pg": true
+      "lhijjgt5u0zyj7g27pg": true,
+      "lhijjuuhgwirc3fhxsn": true,
+      "lhijk6c1d59qropy8l": true,
+      "lhijk4x5rcux70h3lyb": true,
+      "lhijk801jx1wshoyzn": true
     }
   },
   "nodes": [
@@ -379,13 +383,72 @@
     },
     {
       "ID": "lhijjuuhgwirc3fhxsn",
-      "Name": "主将を務める人格者でも、進路選択で親と教師の板挟みになる\n国立大の法学部に進んで堅い職種に就いてほしい親\n兄が放浪していることから弟である主将にプレッシャー\n兄は管理主義の親に反発して大学を中退し失踪、のちに弟にだけ自分の居場所（富山の漁港で漁師）を知らせている\n親から愛情は与えられなかったのに、教育ばかり受けさせられて、とても寂しかったことで、苦しい事情がある他人に対しても同情できなくなってしまった（俺も辛いのに、なんでお前は楽してるんだって）\n兄に対しても、自分がこんなに追い詰められているのは兄が自分のわがままを押し通して親への期待を放り投げたからだと恨んでいる\n",
+      "Name": "主将を務める人格者でも、進路選択で親と教師の板挟みになる\n",
+      "Linked": {
+        "Children": [
+          "lhijk6c1d59qropy8l",
+          "lhijk801jx1wshoyzn"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijk4x5rcux70h3lyb",
+      "Name": "兄が放浪していることから弟である主将にプレッシャー\n",
+      "Linked": {
+        "Children": [
+          "lhijk77l0ub756rezvxh"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijk6c1d59qropy8l"
+    },
+    {
+      "ID": "lhijk6c1d59qropy8l",
+      "Name": "国立大の法学部に進んで堅い職種に就いてほしい親\n",
+      "Linked": {
+        "Children": [
+          "lhijk4x5rcux70h3lyb"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijjuuhgwirc3fhxsn"
+    },
+    {
+      "ID": "lhijk77l0ub756rezvxh",
+      "Name": "兄は管理主義の親に反発して大学を中退し失踪、のちに弟にだけ自分の居場所（富山の漁港で漁師）を知らせている\n",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijk4x5rcux70h3lyb"
+    },
+    {
+      "ID": "lhijk801jx1wshoyzn",
+      "Name": "親から愛情は与えられなかったのに、教育ばかり受けさせられて、とても寂しかったことで、苦しい事情がある他人に対しても同情できなくなってしまった（俺も辛いのに、なんでお前は楽してるんだって）\n",
+      "Linked": {
+        "Children": [
+          "lhijk9s1ucacy4mtupa"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijjuuhgwirc3fhxsn"
+    },
+    {
+      "ID": "lhijk9s1ucacy4mtupa",
+      "Name": "兄に対しても、自分がこんなに追い詰められているのは兄が自分のわがままを押し通して親への期待を放り投げたからだと恨んでいる\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijk801jx1wshoyzn"
     }
   ]
 }
