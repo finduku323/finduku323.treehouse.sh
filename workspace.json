@@ -13,7 +13,11 @@
       "lhijgkrt41k3eor97cp": true,
       "lhijh6ohbnbqyjfjaiu": true,
       "lhijhidlaa5wuf10byi": true,
-      "lhijhq4pa83djgfppyd": true
+      "lhijhq4pa83djgfppyd": true,
+      "lhijixoxw5ouzy4dfjr": false,
+      "lhijjl35wf9bs3xpmy": true,
+      "lhijjfw1fcihz44tj4q": true,
+      "lhijjgt5u0zyj7g27pg": true
     }
   },
   "nodes": [
@@ -68,7 +72,8 @@
       "Linked": {
         "Children": [
           "lhijenqxtx2u5rxvtmf",
-          "lhijixoxw5ouzy4dfjr"
+          "lhijixoxw5ouzy4dfjr",
+          "lhijjuuhgwirc3fhxsn"
         ],
         "Components": []
       },
@@ -294,6 +299,86 @@
     },
     {
       "ID": "lhijixoxw5ouzy4dfjr",
+      "Name": "正捕手は中学時代、エースのライバルチームにいた\n",
+      "Linked": {
+        "Children": [
+          "lhijjl35wf9bs3xpmy",
+          "lhijjfw1fcihz44tj4q"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijjerllqgeswzjpz",
+      "Name": "とくにエースのいたチームの雰囲気が最悪だったところを、反対の側のベンチから見ていたことが大きい\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijjl35wf9bs3xpmy"
+    },
+    {
+      "ID": "lhijjfw1fcihz44tj4q",
+      "Name": "正論を言えば相手が動くと思い、厳しい言葉を投げつける（が、相手は意固地になって動かなくなる）\n",
+      "Linked": {
+        "Children": [
+          "lhijjgt5u0zyj7g27pg"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijixoxw5ouzy4dfjr"
+    },
+    {
+      "ID": "lhijjgt5u0zyj7g27pg",
+      "Name": "それが、主将の進路選択の話を傾聴することにより、そもそも「傾聴」というやり方があるのだ、と気がつく（相手を動かそうと強引な話法を使わない）\n",
+      "Linked": {
+        "Children": [
+          "lhijjhwpzkgnmztwude",
+          "lhijjjc1deeevmniuid"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijjfw1fcihz44tj4q"
+    },
+    {
+      "ID": "lhijjhwpzkgnmztwude",
+      "Name": "エースがイップスになった際は、泣いているエースの横に黙って座り、気が済むまで話を聞いてやったし、克服の練習相手にも付き合ってやった\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijjgt5u0zyj7g27pg"
+    },
+    {
+      "ID": "lhijjjc1deeevmniuid",
+      "Name": "そのときにエースの本心や趣味、いろんなことを共有できた",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijjgt5u0zyj7g27pg"
+    },
+    {
+      "ID": "lhijjl35wf9bs3xpmy",
+      "Name": "相手のエースをリードするという経験がなく、どう「操縦」すればいいのか、という思考に陥り、対立が絶えない\n",
+      "Linked": {
+        "Children": [
+          "lhijjerllqgeswzjpz"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijixoxw5ouzy4dfjr"
+    },
+    {
+      "ID": "lhijjuuhgwirc3fhxsn",
       "Name": "\n",
       "Linked": {
         "Children": [],
