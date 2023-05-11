@@ -21,7 +21,8 @@
       "lhijjuuhgwirc3fhxsn": true,
       "lhijk6c1d59qropy8l": true,
       "lhijk4x5rcux70h3lyb": true,
-      "lhijk801jx1wshoyzn": true
+      "lhijk801jx1wshoyzn": true,
+      "lhijkmcxz9kcxv7vipc": true
     }
   },
   "nodes": [
@@ -388,7 +389,8 @@
         "Children": [
           "lhijk6c1d59qropy8l",
           "lhijk801jx1wshoyzn",
-          "lhijkmcxz9kcxv7vipc"
+          "lhijkmcxz9kcxv7vipc",
+          "lhijkpcwf19yvnszww"
         ],
         "Components": []
       },
@@ -453,13 +455,35 @@
     },
     {
       "ID": "lhijkmcxz9kcxv7vipc",
-      "Name": "現在の成績的に難しいので一つ下げてなんとか国公立に行ってほしい教師\n進路実績のことだけを考え、部活を疎ましく思っている（帰るのが遅くなるし）\n本人はなかなか成績が上がらずストレスになっている\n本人は大学でも野球を続けたいが、どっちの選択肢に行っても本腰を入れて野球をできるような環境ではないと思う\nそして自分が将来的にプロになれる可能性が低いのに大学でも金のかかる野球を続けようとすることが自分でもワガママなことなんじゃないかと思っている\n",
+      "Name": "現在の成績的に難しいので一つ下げてなんとか国公立に行ってほしい教師",
+      "Linked": {
+        "Children": [
+          "lhijkqk9c7rt7fe63nn"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijjuuhgwirc3fhxsn"
+    },
+    {
+      "ID": "lhijkpcwf19yvnszww",
+      "Name": "本人はなかなか成績が上がらずストレスになっている\n本人は大学でも野球を続けたいが、どっちの選択肢に行っても本腰を入れて野球をできるような環境ではないと思う\nそして自分が将来的にプロになれる可能性が低いのに大学でも金のかかる野球を続けようとすることが自分でもワガママなことなんじゃないかと思っている\n",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lhijjuuhgwirc3fhxsn"
+    },
+    {
+      "ID": "lhijkqk9c7rt7fe63nn",
+      "Name": "進路実績のことだけを考え、部活を疎ましく思っている（帰るのが遅くなるし）",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijkmcxz9kcxv7vipc"
     }
   ]
 }
