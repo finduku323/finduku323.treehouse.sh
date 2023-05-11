@@ -3,7 +3,11 @@
   "lastopen": "@workspace",
   "expanded": {
     "@workspace": {
-      "lhijbma5bvtx9tpp2sr": true
+      "lhijbma5bvtx9tpp2sr": true,
+      "lhijenqxtx2u5rxvtmf": true,
+      "lhijf5jsbhvocp32rl": true,
+      "lhijf73t92dwxdi1q3": true,
+      "lhijexfbsy4kpso503o": true
     }
   },
   "nodes": [
@@ -58,7 +62,8 @@
       "Linked": {
         "Children": [
           "lhijenqxtx2u5rxvtmf",
-          "lhijexfbsy4kpso503o"
+          "lhijf2ipijh90sq0bi",
+          "lhijf3ds7tsnc1emie"
         ],
         "Components": []
       },
@@ -67,7 +72,41 @@
     },
     {
       "ID": "lhijenqxtx2u5rxvtmf",
-      "Name": "エースが一人だけ強豪校ではなく進学校に行った事情\n学力や親からの圧力、経済状況から強豪校に行けなかった\nセレクションには受かっていた、強豪校でプレーできない「もどかしさ」をチームへの八つ当たりで発散しようとしている",
+      "Name": "エースが一人だけ強豪校ではなく進学校に行った事情\n",
+      "Linked": {
+        "Children": [
+          "lhijf5jsbhvocp32rl"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijexfbsy4kpso503o",
+      "Name": "入部がわかったとき、主人公は頭を抱えた\n",
+      "Linked": {
+        "Children": [
+          "lhijf1cwrouddz6a0qr"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijf73t92dwxdi1q3"
+    },
+    {
+      "ID": "lhijf1cwrouddz6a0qr",
+      "Name": "実力は屈指だが、素行や態度、さらに野球IQやチームプレーはあまりにお粗末だということは、以前から耳に入っていた\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijexfbsy4kpso503o"
+    },
+    {
+      "ID": "lhijf2ipijh90sq0bi",
+      "Name": "返球や守備が雑で、自分と違う意見を認めようとしない\n",
       "Linked": {
         "Children": [],
         "Components": []
@@ -76,14 +115,38 @@
       "Parent": "lhijbma5bvtx9tpp2sr"
     },
     {
-      "ID": "lhijexfbsy4kpso503o",
-      "Name": "\n入部がわかったとき、主人公は頭を抱えた\n実力は屈指だが、素行や態度、さらに野球IQやチームプレーはあまりにお粗末だということは、以前から耳に入っていた\n返球や守備が雑で、自分と違う意見を認めようとしない\n冷笑的で、自分以外を見下すところがある",
+      "ID": "lhijf3ds7tsnc1emie",
+      "Name": "冷笑的で、自分以外を見下すところがある",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijf5jsbhvocp32rl",
+      "Name": "学力や親からの圧力、経済状況から強豪校に行けなかった\n",
+      "Linked": {
+        "Children": [
+          "lhijf73t92dwxdi1q3"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijenqxtx2u5rxvtmf"
+    },
+    {
+      "ID": "lhijf73t92dwxdi1q3",
+      "Name": "セレクションには受かっていた、強豪校でプレーできない「もどかしさ」をチームへの八つ当たりで発散しようとしている",
+      "Linked": {
+        "Children": [
+          "lhijexfbsy4kpso503o"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijf5jsbhvocp32rl"
     }
   ]
 }
