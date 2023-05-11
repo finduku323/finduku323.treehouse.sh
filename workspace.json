@@ -10,7 +10,10 @@
       "lhijexfbsy4kpso503o": true,
       "lhijfre1f8at6oj1tat": false,
       "lhijfxnd8w7ktsvnr84": true,
-      "lhijgkrt41k3eor97cp": true
+      "lhijgkrt41k3eor97cp": true,
+      "lhijh6ohbnbqyjfjaiu": true,
+      "lhijhidlaa5wuf10byi": true,
+      "lhijhq4pa83djgfppyd": true
     }
   },
   "nodes": [
@@ -169,7 +172,8 @@
       "Linked": {
         "Children": [
           "lhijgkrt41k3eor97cp",
-          "lhijh6ohbnbqyjfjaiu"
+          "lhijh6ohbnbqyjfjaiu",
+          "lhiji0og2g5di27g3xb"
         ],
         "Components": []
       },
@@ -211,7 +215,75 @@
     },
     {
       "ID": "lhijh6ohbnbqyjfjaiu",
-      "Name": "勉強自体はあまり得意ではないが自頭がよく、話を要領よく理解することができる（ので成績は実はそこそこ）\nが、それが災いして早合点してしまい、相手の意図と違った行動をしてしまうなど、トラブルを巻き起こすことがある\nそれで中学時代はチームを崩壊寸前にまで追い込んだ\nなんでも自分で背負い込んでやるのって別に優しくないんだなと気がつく\nなんなら後で自分が潰れたときに誰もカバーできないし誰も状況がわからないから誰にとっても優しくない\n一方で非常に研究熱心で、動画などを参考に投球をアップデートしようとする考えがある\n最終的には最速151kmの直球と鋭く落ちるフォークを武器にドラフトで指名をもらう",
+      "Name": "勉強自体はあまり得意ではないが自頭がよく、話を要領よく理解することができる（ので成績は実はそこそこ）\n",
+      "Linked": {
+        "Children": [
+          "lhijhidlaa5wuf10byi",
+          "lhijhq4pa83djgfppyd",
+          "lhijhx1m2r9qavg537x"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijfxnd8w7ktsvnr84"
+    },
+    {
+      "ID": "lhijhfwg6ra1kkihotj",
+      "Name": "それで中学時代はチームを崩壊寸前にまで追い込んだ\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijhidlaa5wuf10byi"
+    },
+    {
+      "ID": "lhijhidlaa5wuf10byi",
+      "Name": "が、それが災いして早合点してしまい、相手の意図と違った行動をしてしまうなど、トラブルを巻き起こすことがある",
+      "Linked": {
+        "Children": [
+          "lhijhfwg6ra1kkihotj"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijh6ohbnbqyjfjaiu"
+    },
+    {
+      "ID": "lhijhq4pa83djgfppyd",
+      "Name": "なんでも自分で背負い込んでやるのって別に優しくないんだなと気がつく",
+      "Linked": {
+        "Children": [
+          "lhijhu0xt6rii1crpu"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijh6ohbnbqyjfjaiu"
+    },
+    {
+      "ID": "lhijhu0xt6rii1crpu",
+      "Name": "なんなら後で自分が潰れたときに誰もカバーできないし誰も状況がわからないから誰にとっても優しくない\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijhq4pa83djgfppyd"
+    },
+    {
+      "ID": "lhijhx1m2r9qavg537x",
+      "Name": "一方で非常に研究熱心で、動画などを参考に投球をアップデートしようとする考えがある",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijh6ohbnbqyjfjaiu"
+    },
+    {
+      "ID": "lhiji0og2g5di27g3xb",
+      "Name": "最終的には最速151kmの直球と鋭く落ちるフォークを武器にドラフトで指名をもらう",
       "Linked": {
         "Children": [],
         "Components": []
