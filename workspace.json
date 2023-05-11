@@ -168,7 +168,8 @@
       "Name": "投げてる球はえげつないが粗削りで、体の成長に追いついておらず、怪我のリスクが高い",
       "Linked": {
         "Children": [
-          "lhijgkrt41k3eor97cp"
+          "lhijgkrt41k3eor97cp",
+          "lhijh6ohbnbqyjfjaiu"
         ],
         "Components": []
       },
@@ -180,7 +181,8 @@
       "Name": "春の大会後はイップスに陥ってしまう",
       "Linked": {
         "Children": [
-          "lhijgr2o13rlfpdwwuy"
+          "lhijgr2o13rlfpdwwuy",
+          "lhijgzoh9vj4c1chm7"
         ],
         "Components": []
       },
@@ -189,13 +191,33 @@
     },
     {
       "ID": "lhijgr2o13rlfpdwwuy",
-      "Name": "",
+      "Name": "ネットへの投球練習から始め、「相手の胸に投げる」「距離を伸ばす」ことで克服しようとするが、「今そんなことをやっていていいのか」という焦りが自分を支配していく",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lhijgkrt41k3eor97cp"
+    },
+    {
+      "ID": "lhijgzoh9vj4c1chm7",
+      "Name": "登板回避の決断をされたときに感じた戸惑い",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijgkrt41k3eor97cp"
+    },
+    {
+      "ID": "lhijh6ohbnbqyjfjaiu",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijfxnd8w7ktsvnr84"
     }
   ]
 }
