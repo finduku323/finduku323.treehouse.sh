@@ -387,7 +387,8 @@
       "Linked": {
         "Children": [
           "lhijk6c1d59qropy8l",
-          "lhijk801jx1wshoyzn"
+          "lhijk801jx1wshoyzn",
+          "lhijkmcxz9kcxv7vipc"
         ],
         "Components": []
       },
@@ -442,13 +443,23 @@
     },
     {
       "ID": "lhijk9s1ucacy4mtupa",
-      "Name": "兄に対しても、自分がこんなに追い詰められているのは兄が自分のわがままを押し通して親への期待を放り投げたからだと恨んでいる\n",
+      "Name": "兄に対しても、自分がこんなに追い詰められているのは兄が自分のわがままを押し通して親への期待を放り投げたからだと恨んでいる",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lhijk801jx1wshoyzn"
+    },
+    {
+      "ID": "lhijkmcxz9kcxv7vipc",
+      "Name": "現在の成績的に難しいので一つ下げてなんとか国公立に行ってほしい教師\n進路実績のことだけを考え、部活を疎ましく思っている（帰るのが遅くなるし）\n本人はなかなか成績が上がらずストレスになっている\n本人は大学でも野球を続けたいが、どっちの選択肢に行っても本腰を入れて野球をできるような環境ではないと思う\nそして自分が将来的にプロになれる可能性が低いのに大学でも金のかかる野球を続けようとすることが自分でもワガママなことなんじゃないかと思っている\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijjuuhgwirc3fhxsn"
     }
   ]
 }
