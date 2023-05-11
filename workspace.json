@@ -50,7 +50,12 @@
       "lhijphlc1wt9lxvbsqf": true,
       "lhijpji8e9c37x1q4di": true,
       "lhijqoqfb50qkt0u3sb": true,
-      "lhijqtk1h2t13ke2bll": true
+      "lhijqtk1h2t13ke2bll": true,
+      "lhijrvgo17l7hcmi03v": true,
+      "lhijt2gwzxy28neqme": true,
+      "lhijsts02ra8ib2oo5z": true,
+      "lhijsw889sf93q832ls": true,
+      "lhijsx280cyz7c36eru": true
     }
   },
   "nodes": [
@@ -112,14 +117,6 @@
           "lhijmahsh6l80a1849q",
           "lhijoukgabu8nkw4jgm",
           "lhijrvgo17l7hcmi03v",
-          "lhijt2gwzxy28neqme",
-          "lhijsssg95u1hv65kts",
-          "lhijsts02ra8ib2oo5z",
-          "lhijsukglwb0hax28x",
-          "lhijsw889sf93q832ls",
-          "lhijsx280cyz7c36eru",
-          "lhijsxwgjrnsiijj7j9",
-          "lhijsz68q4nbx0osuu",
           "lhijs2rrj7wnw6srwg",
           "lhijs9lbibf2zyire28",
           "lhijsjhsm74foeayf9",
@@ -1096,7 +1093,11 @@
       "ID": "lhijrvgo17l7hcmi03v",
       "Name": "体罰で自分の最後と決めた夏の大会を辞退せざるを得なくなった恩師\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijt2gwzxy28neqme",
+          "lhijsts02ra8ib2oo5z",
+          "lhijsw889sf93q832ls"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -1150,17 +1151,19 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijt2gwzxy28neqme"
     },
     {
       "ID": "lhijsts02ra8ib2oo5z",
       "Name": "「子どもたちを育て上げきれなかったのは、間違いなく俺の責任で、俺が背負うべき罰なんだ」\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijsukglwb0hax28x"
+        ],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijrvgo17l7hcmi03v"
     },
     {
       "ID": "lhijsukglwb0hax28x",
@@ -1170,27 +1173,32 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijsts02ra8ib2oo5z"
     },
     {
       "ID": "lhijsw889sf93q832ls",
       "Name": "監督としての全盛期はスパルタで、凡ミスをすると激しい罵声が飛んでくる緊張感のある環境だった\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijsx280cyz7c36eru",
+          "lhijsz68q4nbx0osuu"
+        ],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijrvgo17l7hcmi03v"
     },
     {
       "ID": "lhijsx280cyz7c36eru",
       "Name": "しかしそれがきっかけで連帯責任によるキツい練習を嫌った上級生が下級生をしごく上下関係が生まれ、根付いた\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijsxwgjrnsiijj7j9"
+        ],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijsw889sf93q832ls"
     },
     {
       "ID": "lhijsxwgjrnsiijj7j9",
@@ -1200,7 +1208,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijsx280cyz7c36eru"
     },
     {
       "ID": "lhijsz68q4nbx0osuu",
@@ -1210,17 +1218,19 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijsw889sf93q832ls"
     },
     {
       "ID": "lhijt2gwzxy28neqme",
       "Name": "実はその体罰というものは、部内の窃盗や暴力、上下関係という問題を咎める際に手が出てしまったコーチをかばい、自分が体罰をしたことにしたものだった\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijsssg95u1hv65kts"
+        ],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijrvgo17l7hcmi03v"
     }
   ]
 }
