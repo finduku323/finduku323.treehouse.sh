@@ -8,7 +8,9 @@
       "lhijf5jsbhvocp32rl": true,
       "lhijf73t92dwxdi1q3": true,
       "lhijexfbsy4kpso503o": true,
-      "lhijfre1f8at6oj1tat": false
+      "lhijfre1f8at6oj1tat": false,
+      "lhijfxnd8w7ktsvnr84": true,
+      "lhijgkrt41k3eor97cp": true
     }
   },
   "nodes": [
@@ -165,11 +167,35 @@
       "ID": "lhijfxnd8w7ktsvnr84",
       "Name": "投げてる球はえげつないが粗削りで、体の成長に追いついておらず、怪我のリスクが高い",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijgkrt41k3eor97cp"
+        ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lhijenqxtx2u5rxvtmf"
+    },
+    {
+      "ID": "lhijgkrt41k3eor97cp",
+      "Name": "春の大会後はイップスに陥ってしまう",
+      "Linked": {
+        "Children": [
+          "lhijgr2o13rlfpdwwuy"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijfxnd8w7ktsvnr84"
+    },
+    {
+      "ID": "lhijgr2o13rlfpdwwuy",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijgkrt41k3eor97cp"
     }
   ]
 }
