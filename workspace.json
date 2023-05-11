@@ -102,7 +102,14 @@
           "lhijl8018qxuzdunutf",
           "lhijm5e8qknaz1raut",
           "lhijmahsh6l80a1849q",
-          "lhijoukgabu8nkw4jgm"
+          "lhijoukgabu8nkw4jgm",
+          "lhijpac04wo68x532sj",
+          "lhijpbigpgj0f70xlpt",
+          "lhijpd2p73b75bbgf2c",
+          "lhijp8wg94514qhkux9",
+          "lhijpdll2rsgiklv3px",
+          "lhijpehtl6fxhtymlng",
+          "lhijpf6h8dyxqxvlkop"
         ],
         "Components": []
       },
@@ -890,7 +897,77 @@
     },
     {
       "ID": "lhijoukgabu8nkw4jgm",
-      "Name": "",
+      "Name": "親の期待は圧力となり、主人公の幼馴染にして社会人時代の同僚の彼女を追い詰め、地元へ帰らせ、そこにいた主人公と性的な依存関係に至らしめた\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijp8wg94514qhkux9",
+      "Name": "進学校に進学し親に医学部受験を強制されたが失敗\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijpac04wo68x532sj",
+      "Name": "人を測ろうと相手が持ち出した定規で、私は相手のことを観察している\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijpbigpgj0f70xlpt",
+      "Name": "そのくだらない定規、早く折ってやりたい\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijpd2p73b75bbgf2c",
+      "Name": "親は小4のときに離婚し苗字変わってる\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijpdll2rsgiklv3px",
+      "Name": "親の束縛に耐えかねて東京へ行ったがうまくいかず、親に内緒で地元に戻ってきた\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijpehtl6fxhtymlng",
+      "Name": "そこに幼馴染だった主人公がいて、なんとなく辛かったからセックスしたら、そのまま性的な依存関係に\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijbma5bvtx9tpp2sr"
+    },
+    {
+      "ID": "lhijpf6h8dyxqxvlkop",
+      "Name": "欲望とか自分の思いを封じ込められたがゆえに、誰かからの欲を欲しがって、それで自分を満たしていた\n相手も同じだと分かっていたが、追及すれば彼がいなくなると思って、何も言わなかった\n何年経ってもあのとき一度だけ見せた君の笑顔が思い出せないでいる\nくるり「潮風のアリア」だ\n​甲子園の試合前日に電話すると、「あんた、私の母校の監督だったんだね」と言われる。知っていたのか、と尋ねると、いや、なんの気無しにネットニュース見てたら名前が出てきてびっくりした、いいの？　こんな公に出る人間が私みたいな爛れた関係の女と付き合ってて、と言われる\n主人公はそのとき初めて相手がかつての幼馴染だったことに気がついた\n悩みを打ち明けるのはこの関係だと良くないと思って自重してきた主人公だが、彼女が不意に見せた優しさに、男女の関係なんてものを超えて、なんとなく自分が抱えている悩みを打ち明けたくなった\n「いろんなものを我慢して野球だけを追いかけた純粋な青年が、大人になろうとしたときに躓いて、どんどん不純になっていく。それは、私も同じだったよ」",
       "Linked": {
         "Children": [],
         "Components": []
