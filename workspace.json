@@ -61,9 +61,7 @@
       "Name": "人生のもどかしさを乗り越える出会いがある 物語の登場人物たちに自分が抱えるさみしさやもどかしさを背負ってもらう（そのもどかしさが、別の方向へと歪に発散されたりされなかったりするのが、物語の火種）",
       "Linked": {
         "Children": [
-          "lhijenqxtx2u5rxvtmf",
-          "lhijf2ipijh90sq0bi",
-          "lhijf3ds7tsnc1emie"
+          "lhijenqxtx2u5rxvtmf"
         ],
         "Components": []
       },
@@ -75,7 +73,8 @@
       "Name": "エースが一人だけ強豪校ではなく進学校に行った事情\n",
       "Linked": {
         "Children": [
-          "lhijf5jsbhvocp32rl"
+          "lhijf5jsbhvocp32rl",
+          "lhijfre1f8at6oj1tat"
         ],
         "Components": []
       },
@@ -87,7 +86,9 @@
       "Name": "入部がわかったとき、主人公は頭を抱えた\n",
       "Linked": {
         "Children": [
-          "lhijf1cwrouddz6a0qr"
+          "lhijf1cwrouddz6a0qr",
+          "lhijf2ipijh90sq0bi",
+          "lhijf3ds7tsnc1emie"
         ],
         "Components": []
       },
@@ -96,7 +97,7 @@
     },
     {
       "ID": "lhijf1cwrouddz6a0qr",
-      "Name": "実力は屈指だが、素行や態度、さらに野球IQやチームプレーはあまりにお粗末だということは、以前から耳に入っていた\n",
+      "Name": "実力は屈指だが、素行や態度、さらに野球IQやチームプレーはあまりにお粗末だということは、以前から耳に入っていた",
       "Linked": {
         "Children": [],
         "Components": []
@@ -112,7 +113,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijexfbsy4kpso503o"
     },
     {
       "ID": "lhijf3ds7tsnc1emie",
@@ -122,7 +123,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijexfbsy4kpso503o"
     },
     {
       "ID": "lhijf5jsbhvocp32rl",
@@ -147,6 +148,16 @@
       },
       "Attrs": {},
       "Parent": "lhijf5jsbhvocp32rl"
+    },
+    {
+      "ID": "lhijfre1f8at6oj1tat",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhijenqxtx2u5rxvtmf"
     }
   ]
 }
