@@ -49,7 +49,8 @@
       "lhijpehtl6fxhtymlng": true,
       "lhijphlc1wt9lxvbsqf": true,
       "lhijpji8e9c37x1q4di": true,
-      "lhijqoqfb50qkt0u3sb": true
+      "lhijqoqfb50qkt0u3sb": true,
+      "lhijqtk1h2t13ke2bll": true
     }
   },
   "nodes": [
@@ -109,8 +110,7 @@
           "lhijl8018qxuzdunutf",
           "lhijm5e8qknaz1raut",
           "lhijmahsh6l80a1849q",
-          "lhijoukgabu8nkw4jgm",
-          "lhijqut4jf4kfknw45o"
+          "lhijoukgabu8nkw4jgm"
         ],
         "Components": []
       },
@@ -1061,7 +1061,9 @@
       "ID": "lhijqtk1h2t13ke2bll",
       "Name": "悩みを打ち明けるのはこの関係だと良くないと思って自重してきた主人公だが、彼女が不意に見せた優しさに、男女の関係なんてものを超えて、なんとなく自分が抱えている悩みを打ち明けたくなった\n",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhijqut4jf4kfknw45o"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -1075,7 +1077,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhijbma5bvtx9tpp2sr"
+      "Parent": "lhijqtk1h2t13ke2bll"
     }
   ]
 }
