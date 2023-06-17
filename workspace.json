@@ -82,7 +82,8 @@
       "lhijzhowefu3fpzyld9": true,
       "lhijzf74bo534mupz9r": false,
       "lhik19knhnxp1ahld98": true,
-      "@workspace": true
+      "@workspace": true,
+      "lj02nk7o1gnau9m68we": true
     },
     "lhijbma5bvtx9tpp2sr": {
       "lhijenqxtx2u5rxvtmf": true,
@@ -1824,10 +1825,24 @@
       "Name": "aaaa",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lj02np6u40ic0cu65vx"
+        ]
       },
       "Attrs": {},
       "Parent": "@workspace"
+    },
+    {
+      "ID": "lj02np6u40ic0cu65vx",
+      "Name": "treehouse.SearchNode",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lj02nk7o1gnau9m68we",
+      "Rel": "Components"
     }
   ]
 }
